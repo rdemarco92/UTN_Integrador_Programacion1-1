@@ -105,7 +105,6 @@ def menu():
         print("5. Ordenar por superficie (descendente)")
         print("6. Mostrar estadísticas")
         print("7. Salir")
-        print("8. Mostrar lista completa")
 
         opcion = input("Seleccione una opción: ").strip()
 
