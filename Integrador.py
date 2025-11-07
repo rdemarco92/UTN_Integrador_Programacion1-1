@@ -233,7 +233,7 @@ def menu():
             case "4":
                 ordenar_poblacion(paises)
             case "5":
-                ordenar_superficie(paises, descendente=True)
+                ordenar_superficie(paises)
             case "6":
                 mostrar_estadisticas(paises)
             case "7":
